@@ -2,7 +2,7 @@
   "name": "notes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://captsam727.github.io/notes/",
+  "homepage": "https://captsam727.github.io/notes",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
